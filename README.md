@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou James Xavier <img src="assets/wave.svg" height="40" alt="👋"></h1>
+<h1 align="center">Olá, eu sou James Xavier <img src="assets/wavsvg" height="40" alt="👋"></h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br>
