@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**.
+Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**, conhecimentos em **Angular**, **Java**, **Python** e bancos não relacionais eu estou:
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🔧 Construindo produtos reais: APIs REST, interfaces responsivas e comunicação em tempo real
@@ -26,7 +26,7 @@ Desenvolvedor web com experiência prática na construção de aplicações comp
 
 ### 🚛 MaisGuinchos
 
-Plataforma web para conectar **clientes e motoristas de guincho**, com comunicação em tempo real e cálculo de rotas. A ideia é ser uma espécie de "Uber de guinchos", aproveitando a viagem de ida e volta para que o motorista não fique parado.
+Plataforma web para conectar **clientes e motoristas de guincho**, com comunicação em tempo real e cálculo de rotas. A ideia é ser uma espécie de "Uber" mas para guinchos.
 
 **Destaques:**
 - Busca de guinchos por localização e destino
@@ -61,8 +61,8 @@ Plataforma web para conectar **clientes e motoristas de guincho**, com comunica�
 |---|---|
 | **Backend** | C# • .NET • ASP.NET Core • Entity Framework Core • REST API • SignalR |
 | **Frontend** | React • TypeScript • JavaScript • HTML • CSS • Vite |
-| **Banco de dados** | PostgreSQL |
-| **Ferramentas & Deploy** | Git • GitHub • Docker • Railway • Vercel |
+| **Banco de dados** | PostgreSQL • MySQL |
+| **Ferramentas & Deploy** | Git • GitHub • Docker • Railway • Vercel • SupaBase |
 
 ---
 
