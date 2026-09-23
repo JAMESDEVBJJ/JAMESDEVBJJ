@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou James Xavier 👋</h1>
+<h1 align="center">Olá, eu sou James Xavier <img src="assets/wave.svg" height="40" alt="👋"></h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br>
@@ -7,14 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-xavier-06a441396/"><img src="https://img.shields.io/badge/LinkedIn-James%20Xavier-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/JAMESDEVBJJ?tab=repositories"><img src="https://img.shields.io/badge/GitHub-JAMESDEVBJJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**, conhecimentos em **Angular**, **Java**, **Python** e bancos não relacionais eu estou:
+Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**, conhecimentos também em **Angular**, **Java**, **Python** e **NoSQL**.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🔧 Construindo produtos reais: APIs REST, interfaces responsivas e comunicação em tempo real
@@ -26,13 +25,16 @@ Desenvolvedor web com experiência prática na construção de aplicações comp
 
 ### 🚛 MaisGuinchos
 
-Plataforma web para conectar **clientes e motoristas de guincho**, com comunicação em tempo real e cálculo de rotas. A ideia é ser uma espécie de "Uber" mas para guinchos.
+🌐 Demo online: https://mais-guinchos.vercel.app/
+
+A plataforma conecta clientes a motoristas de guincho, permitindo solicitação de serviço, negociação de propostas, acompanhamento da viagem e cálculo de rotas em tempo real.
 
 **Destaques:**
 - Busca de guinchos por localização e destino
 - Comunicação em tempo real entre cliente e motorista
 - Negociação de propostas com contraproposta
 - Cálculo e exibição de rotas no mapa
+- Reboques como cliente ou motorista (solicitações e corridas)
 
 **Stack:**
 
@@ -62,7 +64,7 @@ Plataforma web para conectar **clientes e motoristas de guincho**, com comunica�
 | **Backend** | C# • .NET • ASP.NET Core • Entity Framework Core • REST API • SignalR |
 | **Frontend** | React • TypeScript • JavaScript • HTML • CSS • Vite |
 | **Banco de dados** | PostgreSQL • MySQL |
-| **Ferramentas & Deploy** | Git • GitHub • Docker • Railway • Vercel • SupaBase |
+| **Ferramentas & Deploy** | Git • GitHub • Docker • Railway • Vercel • Supabase |
 
 ---
 
