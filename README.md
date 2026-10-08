@@ -33,7 +33,7 @@ A plataforma conecta clientes a motoristas de guincho, permitindo solicitação 
 - Busca de guinchos por localização e destino
 - Comunicação em tempo real entre cliente e motorista
 - Negociação de propostas com contraproposta
-- Cálculo e exibição de rotas no mapa
+- Cálculo e exibição de dados e rotas no mapa
 - Reboques como cliente ou motorista (solicitações e corridas)
 
 **Stack:**
