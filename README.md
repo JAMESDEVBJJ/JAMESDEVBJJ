@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## <img align="right" src="assets/binary-stream.svg" width="76%" alt=""> 👨‍💻&nbsp;Sobre&nbsp;mim
 
 Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**, conhecimentos também em **Angular**, **Java**, **Python** e **NoSQL**.
 
