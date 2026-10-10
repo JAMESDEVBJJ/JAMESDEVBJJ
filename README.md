@@ -16,7 +16,7 @@
 Desenvolvedor web com experiência prática na construção de aplicações completas, do backend ao frontend, usando **C#**, **ASP.NET Core**, **React**, **TypeScript** e **PostgreSQL**, conhecimentos também em **Angular**, **Java**, **Python** e **NoSQL**.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔧 Construindo produtos reais: APIs REST, interfaces responsivas e comunicação em tempo real
+- 🔧 Construo produtos reais: APIs REST, interfaces responsivas e comunicação em tempo real
 - 🌱 Sempre aprendendo e evoluindo a cada projeto
 
 ---
